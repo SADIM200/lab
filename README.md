@@ -10,6 +10,6 @@ if b  > a:
 if b < a :
     print(" b is smaller then a")  #This line was edited by Yasein Abdi and Sadim Issmaeil
 
-if b==a:
+if b == a:
    print(" b is equal to a")    #This line was edited by Sadim Issmaeil
   
