@@ -5,7 +5,7 @@ a=100
 b=100
 
 if b  > a: 
-  print("b is greater then a")
+  print("b is greater then a")   #This line was edited by Yasein Abdi
 
 if b < a :
     print(" b is smaller then a")
