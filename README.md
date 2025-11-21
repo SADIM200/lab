@@ -11,5 +11,5 @@ if b < a :
     print(" b is smaller then a")
 
 if b==a:
-   print(" b is equal to a")
+   print(" b is equal to a")    #This line was edited by Sadim Issmaeil
   
